@@ -23,8 +23,8 @@ o una forma más fácil es entrar al siguiente link:
  en el usuario admin.<br>
  Para verlo en función tendremos que logearnos con el botón de iniciar sección en la parte superior derecha usando los siguientes credenciales:
  Admin:<br>
-  📨: admin@gmail.com<br>
+  📨: admin@bienesra.com<br>
   🔑: 1234<br>
  Super admin:<br>
-  📨: superadmin@gmail.com<br>
+  📨: superadmin@bienesra.com<br>
   🔑: 1234
