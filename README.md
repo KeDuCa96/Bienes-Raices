@@ -12,10 +12,7 @@ Este proyecto nos sirve para mostrar un portafolio pequeño para un agente inmob
 
 ## Instalación:
 
-Para la instalación del proyecto solo necesitaremos tener instalado Laragon o la extensión de php server en nuestro VSC para su ejecución
-o una forma más fácil es entrar al siguiente link:
-  🔗 
-  
+Para la instalación del proyecto solo necesitaremos tener instalado Laragon o la extensión de php server en nuestro VSC para su ejecución.  
   
  ## Cómo usamos?
  
